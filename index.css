@@ -1,0 +1,65 @@
+/*------Common Classes----------*/
+
+.text-f {
+    font-family: "Italianno", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 4rem;
+}
+
+.text-h {
+    font-family: "Kavoon", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+/*------Common Classes----------*/
+
+/*section intro*/
+
+
+
+.display-1-custom{
+    font-size: 7rem;
+}
+#intro{
+    background: url(./assets/images/intro.jpg) no-repeat center center/cover;
+    color: azure;
+}
+#intro .lead{
+    font-size: 5rem;
+    padding-top: 1rem;
+}
+
+/*Section intro*/
+#about{
+    background: url(./assets/images/about.jpg) no-repeat center center/cover;
+    color: azure;
+}
+#about .lead{
+    padding-top: 2rem;
+}
+
+/*section about*/
+
+/*section projects*/
+#projects .project{
+    background: url(./assets/images/projects.jpg) no-repeat center center/cover;
+    color: azure;
+}
+
+#projects .question-wrapper{
+    background: url(./assets/images/questions.jpg) no-repeat center center/cover;
+    color: azure;
+}
+.question-wrapper .lead{
+    font-size: 2.5rem;
+}
+.question-wrapper .col-12{
+    padding-top: 2rem;
+}
+.question-wrapper .lead a{
+    color: beige;
+}
+
+/*section projects*/
