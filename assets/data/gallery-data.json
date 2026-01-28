@@ -1,0 +1,3350 @@
+{
+  "birds": [
+    {
+      "filename": "Alexandrine parakeet.jpg",
+      "slug": "alexandrine-parakeet",
+      "category": "birds",
+      "species": "Alexandrine Parakeet",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Pune",
+        "state": "Maharashtra",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS RP",
+        "lens": "150-600mm F5-6.3 DG OS HSM | Contemporary 015",
+        "iso": 800,
+        "aperture": "f/6.3",
+        "shutterSpeed": "1/500",
+        "focalLength": "600mm"
+      },
+      "captureDate": "2025-05-15T11:45:39.000Z",
+      "uploadDate": "2026-01-26T14:27:39.898Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 2633,
+        "height": 1755,
+        "aspectRatio": 1.5002849002849004
+      }
+    },
+    {
+      "filename": "Ashy Prinia.jpg",
+      "slug": "ashy-prinia",
+      "category": "birds",
+      "species": "Ashy Prinia",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:39.890Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 2842,
+        "height": 1895,
+        "aspectRatio": 1.499736147757256
+      }
+    },
+    {
+      "filename": "Ashy-crowned Sparrow-Lark.jpg",
+      "slug": "ashy-crowned-sparrow-lark",
+      "category": "birds",
+      "species": "Ashy Crowned Sparrow Lark",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:39.888Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 3923,
+        "height": 2615,
+        "aspectRatio": 1.50019120458891
+      }
+    },
+    {
+      "filename": "Asian Green Bee-eater.jpg",
+      "slug": "asian-green-bee-eater",
+      "category": "birds",
+      "species": "Asian Green Bee Eater",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS 700D",
+        "lens": "150-600mm F5-6.3 DG OS HSM | Contemporary 015",
+        "iso": 800,
+        "aperture": "f/6.3",
+        "shutterSpeed": "1/800",
+        "focalLength": "600mm"
+      },
+      "captureDate": "2019-09-02T02:51:15.000Z",
+      "uploadDate": "2026-01-26T14:27:39.936Z",
+      "copyright": "ALL RIGHTS RESERVED TO VIVEK",
+      "artist": "VIVEK",
+      "dimensions": {
+        "width": 4385,
+        "height": 3456,
+        "aspectRatio": 1.2688078703703705
+      }
+    },
+    {
+      "filename": "Asian Koel.jpg",
+      "slug": "asian-koel",
+      "category": "birds",
+      "species": "Asian Koel",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS RP",
+        "lens": "150-600mm F5-6.3 DG OS HSM | Contemporary 015",
+        "iso": 3200,
+        "aperture": "f/6.3",
+        "shutterSpeed": "1/500",
+        "focalLength": "600mm"
+      },
+      "captureDate": "2021-07-31T07:59:16.000Z",
+      "uploadDate": "2026-01-26T14:27:39.952Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 5334,
+        "height": 3406,
+        "aspectRatio": 1.566059894304169
+      }
+    },
+    {
+      "filename": "Asian Openbill.jpg",
+      "slug": "asian-openbill",
+      "category": "birds",
+      "species": "Asian Openbill",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gadhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:39.932Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 3337,
+        "height": 2225,
+        "aspectRatio": 1.4997752808988765
+      }
+    },
+    {
+      "filename": "Asian Tit.jpg",
+      "slug": "asian-tit",
+      "category": "birds",
+      "species": "Asian Tit",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Pune",
+        "state": "Maharashtra",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:39.893Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 4018,
+        "height": 2679,
+        "aspectRatio": 1.4998133631952222
+      }
+    },
+    {
+      "filename": "Bar-headed Goose.jpg",
+      "slug": "bar-headed-goose",
+      "category": "birds",
+      "species": "Bar Headed Goose",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Ahmedabad",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS 700D",
+        "lens": "EF70-200mm f/4L USM",
+        "iso": 400,
+        "aperture": "f/4",
+        "shutterSpeed": "1/2500",
+        "focalLength": "200mm"
+      },
+      "captureDate": "2019-02-03T04:44:27.000Z",
+      "uploadDate": "2026-01-26T14:27:39.918Z",
+      "copyright": "ALL RIGHTS RESERVED TO VIVEK",
+      "artist": "VIVEK",
+      "dimensions": {
+        "width": 5184,
+        "height": 3456,
+        "aspectRatio": 1.5
+      }
+    },
+    {
+      "filename": "Baya Weaver.jpg",
+      "slug": "baya-weaver",
+      "category": "birds",
+      "species": "Baya Weaver",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:39.914Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 4879,
+        "height": 3783,
+        "aspectRatio": 1.2897171556965372
+      }
+    },
+    {
+      "filename": "Black Drongo.jpg",
+      "slug": "black-drongo",
+      "category": "birds",
+      "species": "Black Drongo",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS RP",
+        "lens": "150-600mm F5-6.3 DG OS HSM | Contemporary 015",
+        "iso": 640,
+        "aperture": "f/5.6",
+        "shutterSpeed": "1/500",
+        "focalLength": "347mm"
+      },
+      "captureDate": "2021-12-31T05:55:49.000Z",
+      "uploadDate": "2026-01-26T14:27:39.957Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 3442,
+        "height": 4370,
+        "aspectRatio": 0.7876430205949657
+      }
+    },
+    {
+      "filename": "Black kite.jpg",
+      "slug": "black-kite",
+      "category": "birds",
+      "species": "Black Kite",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Pune",
+        "state": "Maharashtra",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:39.953Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 4491,
+        "height": 3076,
+        "aspectRatio": 1.4600130039011703
+      }
+    },
+    {
+      "filename": "Black-crowned Night Heron.jpg",
+      "slug": "black-crowned-night-heron",
+      "category": "birds",
+      "species": "Black Crowned Night Heron",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS RP",
+        "lens": "150-600mm F5-6.3 DG OS HSM | Contemporary 015",
+        "iso": 250,
+        "aperture": "f/6.3",
+        "shutterSpeed": "1/2000",
+        "focalLength": "600mm"
+      },
+      "captureDate": "2021-07-11T06:03:57.000Z",
+      "uploadDate": "2026-01-26T14:27:39.958Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 6240,
+        "height": 4160,
+        "aspectRatio": 1.5
+      }
+    },
+    {
+      "filename": "Black-headed Ibis.jpg",
+      "slug": "black-headed-ibis",
+      "category": "birds",
+      "species": "Black Headed Ibis",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS RP",
+        "lens": "150-600mm F5-6.3 DG OS HSM | Contemporary 015",
+        "iso": 4000,
+        "aperture": "f/6.3",
+        "shutterSpeed": "1/2000",
+        "focalLength": "600mm"
+      },
+      "captureDate": "2021-05-30T00:59:12.000Z",
+      "uploadDate": "2026-01-26T14:27:39.959Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 4170,
+        "height": 2687,
+        "aspectRatio": 1.5519166356531449
+      }
+    },
+    {
+      "filename": "Black-rumped Flameback.jpg",
+      "slug": "black-rumped-flameback",
+      "category": "birds",
+      "species": "Black Rumped Flameback",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:39.976Z",
+      "copyright": "ALL RIGHTS RESERVED TO VIVEK",
+      "artist": "VIVEK",
+      "dimensions": {
+        "width": 3456,
+        "height": 5184,
+        "aspectRatio": 0.6666666666666666
+      }
+    },
+    {
+      "filename": "Black-tailed Godwit.jpg",
+      "slug": "black-tailed-godwit",
+      "category": "birds",
+      "species": "Black Tailed Godwit",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Bhavnagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:39.975Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 6240,
+        "height": 4160,
+        "aspectRatio": 1.5
+      }
+    },
+    {
+      "filename": "Black-winged Kite.jpg",
+      "slug": "black-winged-kite",
+      "category": "birds",
+      "species": "Black Winged Kite",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Ramnagar",
+        "state": "Uttarakhand",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS RP",
+        "lens": "150-600mm F5-6.3 DG OS HSM | Contemporary 015",
+        "iso": 320,
+        "aperture": "f/6.3",
+        "shutterSpeed": "1/1600",
+        "focalLength": "600mm"
+      },
+      "captureDate": "2021-12-19T08:47:28.000Z",
+      "uploadDate": "2026-01-26T14:27:39.985Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 6201,
+        "height": 3882,
+        "aspectRatio": 1.5973724884080371
+      }
+    },
+    {
+      "filename": "Black-winged Stilt.jpg",
+      "slug": "black-winged-stilt",
+      "category": "birds",
+      "species": "Black Winged Stilt",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Ahmedabad",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:39.976Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 5036,
+        "height": 3357,
+        "aspectRatio": 1.5001489425081918
+      }
+    },
+    {
+      "filename": "Blue Rock-Thrush.jpg",
+      "slug": "blue-rock-thrush",
+      "category": "birds",
+      "species": "Blue Rock Thrush",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Pune",
+        "state": "Maharashtra",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:39.991Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 6240,
+        "height": 4160,
+        "aspectRatio": 1.5
+      }
+    },
+    {
+      "filename": "Booted Eagle.jpg",
+      "slug": "booted-eagle",
+      "category": "birds",
+      "species": "Booted Eagle",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:39.979Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 3825,
+        "height": 2550,
+        "aspectRatio": 1.5
+      }
+    },
+    {
+      "filename": "Brahminy Kite.jpg",
+      "slug": "brahminy-kite",
+      "category": "birds",
+      "species": "Brahminy Kite",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Panji",
+        "state": "Goa",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS 700D",
+        "lens": "EF70-200mm f/4L USM",
+        "iso": 640,
+        "aperture": "f/9",
+        "shutterSpeed": "1/2000",
+        "focalLength": "200mm"
+      },
+      "captureDate": "2019-03-06T10:38:15.000Z",
+      "uploadDate": "2026-01-26T14:27:39.996Z",
+      "copyright": "ALL RIGHTS RESERVED TO VIVEK",
+      "artist": "VIVEK",
+      "dimensions": {
+        "width": 3623,
+        "height": 2459,
+        "aspectRatio": 1.4733631557543716
+      }
+    },
+    {
+      "filename": "Brahminy Starling.jpg",
+      "slug": "brahminy-starling",
+      "category": "birds",
+      "species": "Brahminy Starling",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Ahmedabad",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:39.997Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 3520,
+        "height": 2347,
+        "aspectRatio": 1.49978696207925
+      }
+    },
+    {
+      "filename": "Brown Fish-Owl.jpg",
+      "slug": "brown-fish-owl",
+      "category": "birds",
+      "species": "Brown Fish Owl",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Ramnagar",
+        "state": "Uttrakhand",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS 700D",
+        "lens": "EF70-200mm f/4L USM",
+        "iso": 100,
+        "aperture": "f/4",
+        "shutterSpeed": "1/250",
+        "focalLength": "200mm"
+      },
+      "captureDate": "2021-12-19T08:52:55.000Z",
+      "uploadDate": "2026-01-26T14:27:39.997Z",
+      "copyright": "ALL RIGHTS RESERVED TO VIVEK",
+      "artist": "VIVEK",
+      "dimensions": {
+        "width": 3845,
+        "height": 2563,
+        "aspectRatio": 1.500195083886071
+      }
+    },
+    {
+      "filename": "Collared Pratincole.jpg",
+      "slug": "collared-pratincole",
+      "category": "birds",
+      "species": "Collared Pratincole",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Bhavnagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.000Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 6354,
+        "height": 4236,
+        "aspectRatio": 1.5
+      }
+    },
+    {
+      "filename": "Common Babbler.jpg",
+      "slug": "common-babbler",
+      "category": "birds",
+      "species": "Common Babbler",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Bhavnagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.024Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 3869,
+        "height": 2579,
+        "aspectRatio": 1.5001938735944165
+      }
+    },
+    {
+      "filename": "Common Crane.jpg",
+      "slug": "common-crane",
+      "category": "birds",
+      "species": "Common Crane",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Dwarka",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.025Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 2900,
+        "height": 3973,
+        "aspectRatio": 0.7299270072992701
+      }
+    },
+    {
+      "filename": "Common Greenshank.jpg",
+      "slug": "common-greenshank",
+      "category": "birds",
+      "species": "Common Greenshank",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Bhavnagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS 700D",
+        "lens": "EF70-200mm f/4L USM",
+        "iso": 250,
+        "aperture": "f/8",
+        "shutterSpeed": "1/1250",
+        "focalLength": "200mm"
+      },
+      "captureDate": "2019-03-05T05:46:08.000Z",
+      "uploadDate": "2026-01-26T14:27:40.027Z",
+      "copyright": "ALL RIGHTS RESERVED TO VIVEK",
+      "artist": "VIVEK",
+      "dimensions": {
+        "width": 3190,
+        "height": 2515,
+        "aspectRatio": 1.268389662027833
+      }
+    },
+    {
+      "filename": "Common Iora.jpg",
+      "slug": "common-iora",
+      "category": "birds",
+      "species": "Common Iora",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Pune",
+        "state": "Maharashtra",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.011Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 3295,
+        "height": 2197,
+        "aspectRatio": 1.4997724169321802
+      }
+    },
+    {
+      "filename": "Common Kingfisher.jpg",
+      "slug": "common-kingfisher",
+      "category": "birds",
+      "species": "Common Kingfisher",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Mahuva",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.016Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 6240,
+        "height": 4160,
+        "aspectRatio": 1.5
+      }
+    },
+    {
+      "filename": "Common Myna.jpg",
+      "slug": "common-myna",
+      "category": "birds",
+      "species": "Common Myna",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS 700D",
+        "lens": "EF70-200mm f/4L USM",
+        "iso": 800,
+        "aperture": "f/4",
+        "shutterSpeed": "1/320",
+        "focalLength": "184mm"
+      },
+      "captureDate": "2018-05-23T13:03:18.000Z",
+      "uploadDate": "2026-01-26T14:27:40.025Z",
+      "copyright": "All Rights reserved to Author",
+      "artist": "VIVEK",
+      "dimensions": {
+        "width": 2901,
+        "height": 3446,
+        "aspectRatio": 0.8418456181079512
+      }
+    },
+    {
+      "filename": "Common Pochard.jpg",
+      "slug": "common-pochard",
+      "category": "birds",
+      "species": "Common Pochard",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Bhavnagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.039Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 3438,
+        "height": 2292,
+        "aspectRatio": 1.5
+      }
+    },
+    {
+      "filename": "Common Sandpiper.jpg",
+      "slug": "common-sandpiper",
+      "category": "birds",
+      "species": "Common Sandpiper",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.027Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 4423,
+        "height": 3055,
+        "aspectRatio": 1.4477905073649755
+      }
+    },
+    {
+      "filename": "Common Tailorbird.jpg",
+      "slug": "common-tailorbird",
+      "category": "birds",
+      "species": "Common Tailorbird",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS RP",
+        "lens": "150-600mm F5-6.3 DG OS HSM | Contemporary 015",
+        "iso": 5000,
+        "aperture": "f/6.3",
+        "shutterSpeed": "1/640",
+        "focalLength": "600mm"
+      },
+      "captureDate": "2020-11-19T09:52:35.000Z",
+      "uploadDate": "2026-01-26T14:27:40.033Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 5530,
+        "height": 3793,
+        "aspectRatio": 1.4579488531505405
+      }
+    },
+    {
+      "filename": "Coppersmith Barbet.jpg",
+      "slug": "coppersmith-barbet",
+      "category": "birds",
+      "species": "Coppersmith Barbet",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Pune",
+        "state": "Maharashtra",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS RP",
+        "lens": "150-600mm F5-6.3 DG OS HSM | Contemporary 015",
+        "iso": 3200,
+        "aperture": "f/6.3",
+        "shutterSpeed": "1/500",
+        "focalLength": "600mm"
+      },
+      "captureDate": "2025-03-30T02:39:38.000Z",
+      "uploadDate": "2026-01-26T14:27:40.042Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 4361,
+        "height": 2907,
+        "aspectRatio": 1.500171998624011
+      }
+    },
+    {
+      "filename": "Crested Lark.jpg",
+      "slug": "crested-lark",
+      "category": "birds",
+      "species": "Crested Lark",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Bhavnagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.043Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 3916,
+        "height": 2611,
+        "aspectRatio": 1.4998085024894676
+      }
+    },
+    {
+      "filename": "Demoiselle Crane.jpg",
+      "slug": "demoiselle-crane",
+      "category": "birds",
+      "species": "Demoiselle Crane",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Dwarka",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.073Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 6240,
+        "height": 4160,
+        "aspectRatio": 1.5
+      }
+    },
+    {
+      "filename": "Desert Wheatear.jpg",
+      "slug": "desert-wheatear",
+      "category": "birds",
+      "species": "Desert Wheatear",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Pune",
+        "state": "Maharashtra",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.059Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 4202,
+        "height": 2801,
+        "aspectRatio": 1.50017850767583
+      }
+    },
+    {
+      "filename": "Eastern Barn Owl.jpg",
+      "slug": "eastern-barn-owl",
+      "category": "birds",
+      "species": "Eastern Barn Owl",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.068Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 6240,
+        "height": 4160,
+        "aspectRatio": 1.5
+      }
+    },
+    {
+      "filename": "Eastern Cattle-Egret.jpg",
+      "slug": "eastern-cattle-egret",
+      "category": "birds",
+      "species": "Eastern Cattle Egret",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS RP",
+        "lens": "150-600mm F5-6.3 DG OS HSM | Contemporary 015",
+        "iso": 1000,
+        "aperture": "f/6.3",
+        "shutterSpeed": "1/800",
+        "focalLength": "600mm"
+      },
+      "captureDate": "2021-05-30T01:29:51.000Z",
+      "uploadDate": "2026-01-26T14:27:40.078Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 6240,
+        "height": 4160,
+        "aspectRatio": 1.5
+      }
+    },
+    {
+      "filename": "Eastern Red-rumped Swallow.jpg",
+      "slug": "eastern-red-rumped-swallow",
+      "category": "birds",
+      "species": "Eastern Red Rumped Swallow",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Junagadh",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.104Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 7695,
+        "height": 5130,
+        "aspectRatio": 1.5
+      }
+    },
+    {
+      "filename": "Eurasian Collared-Dove.jpg",
+      "slug": "eurasian-collared-dove",
+      "category": "birds",
+      "species": "Eurasian Collared Dove",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS 700D",
+        "lens": "EF70-200mm f/4L USM",
+        "iso": 640,
+        "aperture": "f/4",
+        "shutterSpeed": "1/200",
+        "focalLength": "200mm"
+      },
+      "captureDate": "2019-12-02T12:18:17.000Z",
+      "uploadDate": "2026-01-26T14:27:40.105Z",
+      "copyright": "ALL RIGHTS RESERVED TO VIVEK",
+      "artist": "VIVEK",
+      "dimensions": {
+        "width": 5184,
+        "height": 3456,
+        "aspectRatio": 1.5
+      }
+    },
+    {
+      "filename": "Eurasian Coot.jpg",
+      "slug": "eurasian-coot",
+      "category": "birds",
+      "species": "Eurasian Coot",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.106Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 6240,
+        "height": 4160,
+        "aspectRatio": 1.5
+      }
+    },
+    {
+      "filename": "Eurasian Hoopoe.jpg",
+      "slug": "eurasian-hoopoe",
+      "category": "birds",
+      "species": "Eurasian Hoopoe",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Patan",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.093Z",
+      "copyright": "ALL RIGHTS RESERVED TO VIVEK",
+      "artist": "VIVEK",
+      "dimensions": {
+        "width": 3945,
+        "height": 3456,
+        "aspectRatio": 1.1414930555555556
+      }
+    },
+    {
+      "filename": "Eurasian Moorhen.jpg",
+      "slug": "eurasian-moorhen",
+      "category": "birds",
+      "species": "Eurasian Moorhen",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.114Z",
+      "copyright": "ALL RIGHTS RESERVED TO VIVEK",
+      "artist": "VIVEK",
+      "dimensions": {
+        "width": 5184,
+        "height": 3456,
+        "aspectRatio": 1.5
+      }
+    },
+    {
+      "filename": "Eurasian spoonbill.jpg",
+      "slug": "eurasian-spoonbill",
+      "category": "birds",
+      "species": "Eurasian Spoonbill",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Viramgam",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS 700D",
+        "lens": "150-600mm F5-6.3 DG OS HSM | Contemporary 015",
+        "iso": 1000,
+        "aperture": "f/6.3",
+        "shutterSpeed": "1/1250",
+        "focalLength": "600mm"
+      },
+      "captureDate": "2019-06-16T01:05:38.000Z",
+      "uploadDate": "2026-01-26T14:27:40.125Z",
+      "copyright": "ALL RIGHTS RESERVED TO VIVEK",
+      "artist": "VIVEK",
+      "dimensions": {
+        "width": 3832,
+        "height": 2542,
+        "aspectRatio": 1.5074744295830056
+      }
+    },
+    {
+      "filename": "Gray Heron.jpg",
+      "slug": "gray-heron",
+      "category": "birds",
+      "species": "Gray Heron",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Pune",
+        "state": "Maharastra",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS RP",
+        "lens": "150-600mm F5-6.3 DG OS HSM | Contemporary 015",
+        "iso": 800,
+        "aperture": "f/6.3",
+        "shutterSpeed": "1/640",
+        "focalLength": "600mm"
+      },
+      "captureDate": "2025-04-20T01:46:15.000Z",
+      "uploadDate": "2026-01-26T14:27:40.126Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 3448,
+        "height": 2299,
+        "aspectRatio": 1.499782514136581
+      }
+    },
+    {
+      "filename": "Gray-breasted Prinia.jpg",
+      "slug": "gray-breasted-prinia",
+      "category": "birds",
+      "species": "Gray Breasted Prinia",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS RP",
+        "lens": "150-600mm F5-6.3 DG OS HSM | Contemporary 015",
+        "iso": 200,
+        "aperture": "f/6.3",
+        "shutterSpeed": "1/400",
+        "focalLength": "600mm"
+      },
+      "captureDate": "2022-01-05T06:15:36.000Z",
+      "uploadDate": "2026-01-26T14:27:40.137Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 3184,
+        "height": 2761,
+        "aspectRatio": 1.1532053603766752
+      }
+    },
+    {
+      "filename": "Gray-headed Canary-Flycatcher.jpg",
+      "slug": "gray-headed-canary-flycatcher",
+      "category": "birds",
+      "species": "Gray Headed Canary Flycatcher",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.120Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 4787,
+        "height": 3191,
+        "aspectRatio": 1.500156690692573
+      }
+    },
+    {
+      "filename": "Gray-headed Swamphen.jpg",
+      "slug": "gray-headed-swamphen",
+      "category": "birds",
+      "species": "Gray Headed Swamphen",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.137Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 4717,
+        "height": 3145,
+        "aspectRatio": 1.4998410174880763
+      }
+    },
+    {
+      "filename": "Gray-thorated Martin.jpg",
+      "slug": "gray-thorated-martin",
+      "category": "birds",
+      "species": "Gray Thorated Martin",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.174Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 4185,
+        "height": 2790,
+        "aspectRatio": 1.5
+      }
+    },
+    {
+      "filename": "Great Cormorant.jpg",
+      "slug": "great-cormorant",
+      "category": "birds",
+      "species": "Great Cormorant",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Pune",
+        "state": "Maharashtra",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.140Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 6240,
+        "height": 4160,
+        "aspectRatio": 1.5
+      }
+    },
+    {
+      "filename": "Great Egret.jpg",
+      "slug": "great-egret",
+      "category": "birds",
+      "species": "Great Egret",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.156Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 6240,
+        "height": 4160,
+        "aspectRatio": 1.5
+      }
+    },
+    {
+      "filename": "Great Thick-knee.jpg",
+      "slug": "great-thick-knee",
+      "category": "birds",
+      "species": "Great Thick Knee",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.157Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 3853,
+        "height": 2799,
+        "aspectRatio": 1.376563058235084
+      }
+    },
+    {
+      "filename": "Great White Pelican.jpg",
+      "slug": "great-white-pelican",
+      "category": "birds",
+      "species": "Great White Pelican",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Mahuva",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.161Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 6240,
+        "height": 4160,
+        "aspectRatio": 1.5
+      }
+    },
+    {
+      "filename": "Greater Coucal.jpg",
+      "slug": "greater-coucal",
+      "category": "birds",
+      "species": "Greater Coucal",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Pune",
+        "state": "Maharashtra",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.193Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 3979,
+        "height": 3511,
+        "aspectRatio": 1.1332953574480205
+      }
+    },
+    {
+      "filename": "Greater Flamingo.jpg",
+      "slug": "greater-flamingo",
+      "category": "birds",
+      "species": "Greater Flamingo",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Bhavnagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.196Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 5099,
+        "height": 3399,
+        "aspectRatio": 1.5001471020888497
+      }
+    },
+    {
+      "filename": "Green Sandpiper.jpg",
+      "slug": "green-sandpiper",
+      "category": "birds",
+      "species": "Green Sandpiper",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Pune",
+        "state": "Maharashtra",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.211Z",
+      "copyright": "VIVEKS PHOTOS"
+    },
+    {
+      "filename": "Green-winged Teal.jpg",
+      "slug": "green-winged-teal",
+      "category": "birds",
+      "species": "Green Winged Teal",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Ahmedabad",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS 700D",
+        "lens": "150-600mm F5-6.3 DG OS HSM | Contemporary 015",
+        "iso": 1000,
+        "aperture": "f/5.6",
+        "shutterSpeed": "1/1500",
+        "focalLength": "600mm"
+      },
+      "captureDate": "2020-02-23T03:21:40.000Z",
+      "uploadDate": "2026-01-26T14:27:40.197Z",
+      "copyright": "ALL RIGHTS RESERVED TO VIVEK",
+      "artist": "VIVEK",
+      "dimensions": {
+        "width": 4235,
+        "height": 2610,
+        "aspectRatio": 1.6226053639846743
+      }
+    },
+    {
+      "filename": "Himalayan Griffon.jpg",
+      "slug": "himalayan-griffon",
+      "category": "birds",
+      "species": "Himalayan Griffon",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Ramnagar",
+        "state": "Uttarakhand",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS RP",
+        "lens": "150-600mm F5-6.3 DG OS HSM | Contemporary 015",
+        "iso": 2000,
+        "aperture": "f/6.3",
+        "shutterSpeed": "1/4000",
+        "focalLength": "238mm"
+      },
+      "captureDate": "2021-12-16T10:56:27.000Z",
+      "uploadDate": "2026-01-26T14:27:40.198Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 5264,
+        "height": 4133,
+        "aspectRatio": 1.2736511008952336
+      }
+    },
+    {
+      "filename": "House Sparrow.jpg",
+      "slug": "house-sparrow",
+      "category": "birds",
+      "species": "House Sparrow",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS 700D",
+        "lens": "EF70-200mm f/4L USM",
+        "iso": 100,
+        "aperture": "f/4",
+        "shutterSpeed": "1/200",
+        "focalLength": "200mm"
+      },
+      "captureDate": "2018-04-02T08:42:44.000Z",
+      "uploadDate": "2026-01-26T14:27:40.202Z",
+      "copyright": "All Rights reserved to Author",
+      "artist": "VIVEK",
+      "dimensions": {
+        "width": 5184,
+        "height": 3456,
+        "aspectRatio": 1.5
+      }
+    },
+    {
+      "filename": "Indian Cormorant.jpg",
+      "slug": "indian-cormorant",
+      "category": "birds",
+      "species": "Indian Cormorant",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Pune",
+        "state": "Maharashtra",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.233Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 6240,
+        "height": 4160,
+        "aspectRatio": 1.5
+      }
+    },
+    {
+      "filename": "Indian cuckooshrike.jpg",
+      "slug": "indian-cuckooshrike",
+      "category": "birds",
+      "species": "Indian Cuckooshrike",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS RP",
+        "lens": "150-600mm F5-6.3 DG OS HSM | Contemporary 015",
+        "iso": 100,
+        "aperture": "f/6.3",
+        "shutterSpeed": "1/400",
+        "focalLength": "600mm"
+      },
+      "captureDate": "2021-09-07T02:49:43.000Z",
+      "uploadDate": "2026-01-26T14:27:40.244Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 6043,
+        "height": 5466,
+        "aspectRatio": 1.1055616538602269
+      }
+    },
+    {
+      "filename": "Indian Golden Oriole.jpg",
+      "slug": "indian-golden-oriole",
+      "category": "birds",
+      "species": "Indian Golden Oriole",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Pune",
+        "state": "Maharashtra",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.216Z",
+      "copyright": "VIVEKS PHOTOS"
+    },
+    {
+      "filename": "Indian Gray Hornbill.jpg",
+      "slug": "indian-gray-hornbill",
+      "category": "birds",
+      "species": "Indian Gray Hornbill",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Pune",
+        "state": "Maharashtra",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.233Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 5497,
+        "height": 3665,
+        "aspectRatio": 1.4998635743519781
+      }
+    },
+    {
+      "filename": "Indian Nightjar.jpg",
+      "slug": "indian-nightjar",
+      "category": "birds",
+      "species": "Indian Nightjar",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.236Z",
+      "copyright": "ALL RIGHTS RESERVED TO VIVEK",
+      "artist": "VIVEK",
+      "dimensions": {
+        "width": 6358,
+        "height": 4189,
+        "aspectRatio": 1.5177846741465744
+      }
+    },
+    {
+      "filename": "Indian Peafowl.jpg",
+      "slug": "indian-peafowl",
+      "category": "birds",
+      "species": "Indian Peafowl",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS 700D",
+        "lens": "EF70-200mm f/4L USM",
+        "iso": 800,
+        "aperture": "f/4",
+        "shutterSpeed": "1/640",
+        "focalLength": "100mm"
+      },
+      "captureDate": "2017-06-24T12:09:58.000Z",
+      "uploadDate": "2026-01-26T14:27:40.262Z",
+      "copyright": "ALL RIGHTS RESERVED TO VIVEK",
+      "artist": "VIVEK",
+      "dimensions": {
+        "width": 3336,
+        "height": 5184,
+        "aspectRatio": 0.6435185185185185
+      }
+    },
+    {
+      "filename": "Indian Pond Heron.jpg",
+      "slug": "indian-pond-heron",
+      "category": "birds",
+      "species": "Indian Pond Heron",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.254Z",
+      "copyright": "ALL RIGHTS RESERVED TO VIVEK",
+      "artist": "VIVEK",
+      "dimensions": {
+        "width": 3071,
+        "height": 2492,
+        "aspectRatio": 1.2323434991974318
+      }
+    },
+    {
+      "filename": "Indian Robin.jpg",
+      "slug": "indian-robin",
+      "category": "birds",
+      "species": "Indian Robin",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS RP",
+        "lens": "150-600mm F5-6.3 DG OS HSM | Contemporary 015",
+        "iso": 640,
+        "aperture": "f/5.6",
+        "shutterSpeed": "1/250",
+        "focalLength": "275mm"
+      },
+      "captureDate": "2020-10-16T07:07:19.000Z",
+      "uploadDate": "2026-01-26T14:27:40.264Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 1909,
+        "height": 2264,
+        "aspectRatio": 0.8431978798586572
+      }
+    },
+    {
+      "filename": "Indian Roller.jpg",
+      "slug": "indian-roller",
+      "category": "birds",
+      "species": "Indian Roller",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Ratnagiri",
+        "state": "Maharashtra",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.265Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 5355,
+        "height": 3570,
+        "aspectRatio": 1.5
+      }
+    },
+    {
+      "filename": "Indian Silverbill.jpg",
+      "slug": "indian-silverbill",
+      "category": "birds",
+      "species": "Indian Silverbill",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS RP",
+        "lens": "150-600mm F5-6.3 DG OS HSM | Contemporary 015",
+        "iso": 640,
+        "aperture": "f/6.3",
+        "shutterSpeed": "1/500",
+        "focalLength": "600mm"
+      },
+      "captureDate": "2020-08-19T06:11:54.000Z",
+      "uploadDate": "2026-01-26T14:27:40.268Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 5212,
+        "height": 3475,
+        "aspectRatio": 1.4998561151079137
+      }
+    },
+    {
+      "filename": "Indian Spot-billed Duck.jpg",
+      "slug": "indian-spot-billed-duck",
+      "category": "birds",
+      "species": "Indian Spot Billed Duck",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.273Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 5001,
+        "height": 3334,
+        "aspectRatio": 1.5
+      }
+    },
+    {
+      "filename": "Indian Thick-knee.jpg",
+      "slug": "indian-thick-knee",
+      "category": "birds",
+      "species": "Indian Thick Knee",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Junagadh",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS 700D",
+        "lens": "EF70-200mm f/4L USM",
+        "iso": 6400,
+        "aperture": "f/4",
+        "shutterSpeed": "1/250",
+        "focalLength": "200mm"
+      },
+      "captureDate": "2021-06-06T14:13:52.000Z",
+      "uploadDate": "2026-01-26T14:27:40.276Z",
+      "copyright": "ALL RIGHTS RESERVED TO VIVEK",
+      "artist": "VIVEK",
+      "dimensions": {
+        "width": 4060,
+        "height": 2820,
+        "aspectRatio": 1.4397163120567376
+      }
+    },
+    {
+      "filename": "Indian White-eye.jpg",
+      "slug": "indian-white-eye",
+      "category": "birds",
+      "species": "Indian White Eye",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Coorg",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS 700D",
+        "lens": "EF70-200mm f/4L USM",
+        "iso": 6400,
+        "aperture": "f/4",
+        "shutterSpeed": "1/400",
+        "focalLength": "200mm"
+      },
+      "captureDate": "2019-07-13T12:54:30.000Z",
+      "uploadDate": "2026-01-26T14:27:40.269Z",
+      "copyright": "ALL RIGHTS RESERVED TO VIVEK",
+      "artist": "VIVEK",
+      "dimensions": {
+        "width": 5184,
+        "height": 3456,
+        "aspectRatio": 1.5
+      }
+    },
+    {
+      "filename": "Jungle Babbler.jpg",
+      "slug": "jungle-babbler",
+      "category": "birds",
+      "species": "Jungle Babbler",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS 700D",
+        "lens": "EF70-200mm f/4L USM",
+        "iso": 100,
+        "aperture": "f/4",
+        "shutterSpeed": "1/500",
+        "focalLength": "200mm"
+      },
+      "captureDate": "2017-05-14T10:04:46.000Z",
+      "uploadDate": "2026-01-26T14:27:40.279Z",
+      "copyright": "ALL RIGHTS RESERVED TO VIVEK",
+      "artist": "VIVEK",
+      "dimensions": {
+        "width": 5184,
+        "height": 3456,
+        "aspectRatio": 1.5
+      }
+    },
+    {
+      "filename": "Jungle Owlet.jpg",
+      "slug": "jungle-owlet",
+      "category": "birds",
+      "species": "Jungle Owlet",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Ramnagar",
+        "state": "Uttarakhand",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS RP",
+        "lens": "EF70-200mm f/4L USM",
+        "iso": 320,
+        "aperture": "f/4",
+        "shutterSpeed": "1/400",
+        "focalLength": "200mm"
+      },
+      "captureDate": "2021-12-19T05:55:19.000Z",
+      "uploadDate": "2026-01-26T14:27:40.285Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 3868,
+        "height": 3292,
+        "aspectRatio": 1.174969623329283
+      }
+    },
+    {
+      "filename": "Knob-billed Duck.jpg",
+      "slug": "knob-billed-duck",
+      "category": "birds",
+      "species": "Knob Billed Duck",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS RP",
+        "lens": "150-600mm F5-6.3 DG OS HSM | Contemporary 015",
+        "iso": 1600,
+        "aperture": "f/6.3",
+        "shutterSpeed": "1/2000",
+        "focalLength": "600mm"
+      },
+      "captureDate": "2021-07-11T06:05:26.000Z",
+      "uploadDate": "2026-01-26T14:27:40.297Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 5024,
+        "height": 2537,
+        "aspectRatio": 1.9802916830902642
+      }
+    },
+    {
+      "filename": "Large-billed Crow.jpg",
+      "slug": "large-billed-crow",
+      "category": "birds",
+      "species": "Large Billed Crow",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS RP",
+        "lens": "150-600mm F5-6.3 DG OS HSM | Contemporary 015",
+        "iso": 6400,
+        "aperture": "f/6.3",
+        "shutterSpeed": "1/1000",
+        "focalLength": "600mm"
+      },
+      "captureDate": "2022-05-18T07:54:15.000Z",
+      "uploadDate": "2026-01-26T14:27:40.288Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 6240,
+        "height": 4160,
+        "aspectRatio": 1.5
+      }
+    },
+    {
+      "filename": "Lesser Black-backed Gull.jpg",
+      "slug": "lesser-black-backed-gull",
+      "category": "birds",
+      "species": "Lesser Black Backed Gull",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Bhavnagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.287Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 3979,
+        "height": 2731,
+        "aspectRatio": 1.4569754668619552
+      }
+    },
+    {
+      "filename": "Lesser Flamingo.jpg",
+      "slug": "lesser-flamingo",
+      "category": "birds",
+      "species": "Lesser Flamingo",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Bhavnagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.289Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 3204,
+        "height": 2136,
+        "aspectRatio": 1.5
+      }
+    },
+    {
+      "filename": "Lesser Whistling Duck.jpg",
+      "slug": "lesser-whistling-duck",
+      "category": "birds",
+      "species": "Lesser Whistling Duck",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS RP",
+        "lens": "150-600mm F5-6.3 DG OS HSM | Contemporary 015",
+        "iso": 1600,
+        "aperture": "f/6.3",
+        "shutterSpeed": "1/1000",
+        "focalLength": "600mm"
+      },
+      "captureDate": "2021-07-11T06:31:22.000Z",
+      "uploadDate": "2026-01-26T14:27:40.340Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 4239,
+        "height": 3707,
+        "aspectRatio": 1.1435122740760724
+      }
+    },
+    {
+      "filename": "Little Cormorant.jpg",
+      "slug": "little-cormorant",
+      "category": "birds",
+      "species": "Little Cormorant",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS RP",
+        "lens": "150-600mm F5-6.3 DG OS HSM | Contemporary 015",
+        "iso": 3200,
+        "aperture": "f/6.3",
+        "shutterSpeed": "1/1000",
+        "focalLength": "600mm"
+      },
+      "captureDate": "2021-09-07T01:55:38.000Z",
+      "uploadDate": "2026-01-26T14:27:40.300Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 2461,
+        "height": 2141,
+        "aspectRatio": 1.1494628678187764
+      }
+    },
+    {
+      "filename": "Little Egret.jpg",
+      "slug": "little-egret",
+      "category": "birds",
+      "species": "Little Egret",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.301Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 4246,
+        "height": 3532,
+        "aspectRatio": 1.2021517553793883
+      }
+    },
+    {
+      "filename": "Little Grebe.jpg",
+      "slug": "little-grebe",
+      "category": "birds",
+      "species": "Little Grebe",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Bhavnagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.306Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 6240,
+        "height": 4160,
+        "aspectRatio": 1.5
+      }
+    },
+    {
+      "filename": "Little Ringed Plover.jpg",
+      "slug": "little-ringed-plover",
+      "category": "birds",
+      "species": "Little Ringed Plover",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.305Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 5159,
+        "height": 3466,
+        "aspectRatio": 1.488459319099827
+      }
+    },
+    {
+      "filename": "Long-tailed Shrike.jpg",
+      "slug": "long-tailed-shrike",
+      "category": "birds",
+      "species": "Long Tailed Shrike",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Bhavnagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.365Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 5318,
+        "height": 3545,
+        "aspectRatio": 1.5001410437235543
+      }
+    },
+    {
+      "filename": "Medium Egret.jpg",
+      "slug": "medium-egret",
+      "category": "birds",
+      "species": "Medium Egret",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Patan",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.326Z",
+      "copyright": "ALL RIGHTS RESERVED TO VIVEK",
+      "artist": "VIVEK",
+      "dimensions": {
+        "width": 3905,
+        "height": 3456,
+        "aspectRatio": 1.1299189814814814
+      }
+    },
+    {
+      "filename": "Northern Shoveler.jpg",
+      "slug": "northern-shoveler",
+      "category": "birds",
+      "species": "Northern Shoveler",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Bhavnagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.365Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 4837,
+        "height": 3225,
+        "aspectRatio": 1.49984496124031
+      }
+    },
+    {
+      "filename": "Nothern Pintail-d.jpg",
+      "slug": "nothern-pintail-d",
+      "category": "birds",
+      "species": "Nothern Pintail D",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Ahmedabad",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS 700D",
+        "lens": "150-600mm F5-6.3 DG OS HSM | Contemporary 015",
+        "iso": 1000,
+        "aperture": "f/5.6",
+        "shutterSpeed": "1/1500",
+        "focalLength": "600mm"
+      },
+      "captureDate": "2020-02-23T03:21:40.000Z",
+      "uploadDate": "2026-01-26T14:27:40.329Z",
+      "copyright": "ALL RIGHTS RESERVED TO VIVEK",
+      "artist": "VIVEK",
+      "dimensions": {
+        "width": 4235,
+        "height": 2610,
+        "aspectRatio": 1.6226053639846743
+      }
+    },
+    {
+      "filename": "Orange-headed Thrush.jpg",
+      "slug": "orange-headed-thrush",
+      "category": "birds",
+      "species": "Orange Headed Thrush",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Pune",
+        "state": "Maharashtra",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.355Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 3408,
+        "height": 2272,
+        "aspectRatio": 1.5
+      }
+    },
+    {
+      "filename": "Oriental Darter.jpg",
+      "slug": "oriental-darter",
+      "category": "birds",
+      "species": "Oriental Darter",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Bhavnagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS RP",
+        "lens": "150-600mm F5-6.3 DG OS HSM | Contemporary 015",
+        "iso": 100,
+        "aperture": "f/6.3",
+        "shutterSpeed": "1/400",
+        "focalLength": "600mm"
+      },
+      "captureDate": "2025-06-01T02:02:29.000Z",
+      "uploadDate": "2026-01-26T14:27:40.357Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 6240,
+        "height": 4160,
+        "aspectRatio": 1.5
+      }
+    },
+    {
+      "filename": "Oriental Honey-buzzard.jpg",
+      "slug": "oriental-honey-buzzard",
+      "category": "birds",
+      "species": "Oriental Honey Buzzard",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS 700D",
+        "lens": "EF-S55-250mm f/4-5.6 IS II",
+        "iso": 400,
+        "aperture": "f/5.6",
+        "shutterSpeed": "1/2000",
+        "focalLength": "250mm"
+      },
+      "captureDate": "2019-03-02T05:56:05.000Z",
+      "uploadDate": "2026-01-26T14:27:40.374Z",
+      "copyright": "ALL RIGHTS RESERVED TO VIVEK",
+      "artist": "VIVEK",
+      "dimensions": {
+        "width": 3501,
+        "height": 3362,
+        "aspectRatio": 1.0413444378346222
+      }
+    },
+    {
+      "filename": "Oriental Magpie-Robin.jpg",
+      "slug": "oriental-magpie-robin",
+      "category": "birds",
+      "species": "Oriental Magpie Robin",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS RP",
+        "lens": "150-600mm F5-6.3 DG OS HSM | Contemporary 015",
+        "iso": 1000,
+        "aperture": "f/6.3",
+        "shutterSpeed": "1/500",
+        "focalLength": "600mm"
+      },
+      "captureDate": "2020-07-23T12:01:44.000Z",
+      "uploadDate": "2026-01-26T14:27:40.360Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 4931,
+        "height": 3732,
+        "aspectRatio": 1.3212754555198285
+      }
+    },
+    {
+      "filename": "Osprey.jpg",
+      "slug": "osprey",
+      "category": "birds",
+      "species": "Osprey",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Bhavnagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS RP",
+        "lens": "150-600mm F5-6.3 DG OS HSM | Contemporary 015",
+        "iso": 800,
+        "aperture": "f/6.3",
+        "shutterSpeed": "1/2500",
+        "focalLength": "600mm"
+      },
+      "captureDate": "2025-06-01T02:33:15.000Z",
+      "uploadDate": "2026-01-26T14:27:40.376Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 6847,
+        "height": 4565,
+        "aspectRatio": 1.4998904709748084
+      }
+    },
+    {
+      "filename": "Paddyfield Pipit.jpg",
+      "slug": "paddyfield-pipit",
+      "category": "birds",
+      "species": "Paddyfield Pipit",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Bhavnagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.376Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 1561,
+        "height": 2341,
+        "aspectRatio": 0.6668090559589919
+      }
+    },
+    {
+      "filename": "Painted Stork.jpg",
+      "slug": "painted-stork",
+      "category": "birds",
+      "species": "Painted Stork",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Ahmedabad",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.378Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 5329,
+        "height": 3976,
+        "aspectRatio": 1.340291750503018
+      }
+    },
+    {
+      "filename": "Pheasant-tailed Jacana.jpg",
+      "slug": "pheasant-tailed-jacana",
+      "category": "birds",
+      "species": "Pheasant Tailed Jacana",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Viramgam",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS 700D",
+        "lens": "150-600mm F5-6.3 DG OS HSM | Contemporary 015",
+        "iso": 500,
+        "aperture": "f/6.3",
+        "shutterSpeed": "1/1250",
+        "focalLength": "600mm"
+      },
+      "captureDate": "2019-06-16T01:06:40.000Z",
+      "uploadDate": "2026-01-26T14:27:40.382Z",
+      "copyright": "ALL RIGHTS RESERVED TO VIVEK",
+      "artist": "VIVEK",
+      "dimensions": {
+        "width": 3981,
+        "height": 2140,
+        "aspectRatio": 1.8602803738317757
+      }
+    },
+    {
+      "filename": "Pied Bushchat.jpg",
+      "slug": "pied-bushchat",
+      "category": "birds",
+      "species": "Pied Bushchat",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Musli",
+        "state": "Maharashtra",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.381Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 4581,
+        "height": 3054,
+        "aspectRatio": 1.5
+      }
+    },
+    {
+      "filename": "Pied Kingfisher.jpg",
+      "slug": "pied-kingfisher",
+      "category": "birds",
+      "species": "Pied Kingfisher",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Mahuva",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS RP",
+        "lens": "150-600mm F5-6.3 DG OS HSM | Contemporary 015",
+        "iso": 800,
+        "aperture": "f/6.3",
+        "shutterSpeed": "1/500",
+        "focalLength": "600mm"
+      },
+      "captureDate": "2025-03-30T01:46:50.000Z",
+      "uploadDate": "2026-01-26T14:27:40.382Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 6240,
+        "height": 4160,
+        "aspectRatio": 1.5
+      }
+    },
+    {
+      "filename": "Puff-thorated Babbler.jpg",
+      "slug": "puff-thorated-babbler",
+      "category": "birds",
+      "species": "Puff Thorated Babbler",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Pune",
+        "state": "Maharashtra",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS RP",
+        "lens": "150-600mm F5-6.3 DG OS HSM | Contemporary 015",
+        "iso": 4000,
+        "aperture": "f/6.3",
+        "shutterSpeed": "1/640",
+        "focalLength": "600mm"
+      },
+      "captureDate": "2025-04-20T01:58:13.000Z",
+      "uploadDate": "2026-01-26T14:27:40.383Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 6240,
+        "height": 4160,
+        "aspectRatio": 1.5
+      }
+    },
+    {
+      "filename": "Purple Heron.jpg",
+      "slug": "purple-heron",
+      "category": "birds",
+      "species": "Purple Heron",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Pune",
+        "state": "Maharashtra",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.393Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 4340,
+        "height": 2893,
+        "aspectRatio": 1.50017283097131
+      }
+    },
+    {
+      "filename": "Purple Sunbird.jpg",
+      "slug": "purple-sunbird",
+      "category": "birds",
+      "species": "Purple Sunbird",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS 700D",
+        "lens": "EF-S55-250mm f/4-5.6 IS II",
+        "iso": 1600,
+        "aperture": "f/8",
+        "shutterSpeed": "1/1600",
+        "focalLength": "250mm"
+      },
+      "captureDate": "2019-04-25T10:57:52.000Z",
+      "uploadDate": "2026-01-26T14:27:40.396Z",
+      "copyright": "ALL RIGHTS RESERVED TO VIVEK",
+      "artist": "VIVEK",
+      "dimensions": {
+        "width": 2674,
+        "height": 2205,
+        "aspectRatio": 1.2126984126984126
+      }
+    },
+    {
+      "filename": "Purple-rumped Sunbird.jpg",
+      "slug": "purple-rumped-sunbird",
+      "category": "birds",
+      "species": "Purple Rumped Sunbird",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS RP",
+        "lens": "150-600mm F5-6.3 DG OS HSM | Contemporary 015",
+        "iso": 800,
+        "aperture": "f/6.3",
+        "shutterSpeed": "1/640",
+        "focalLength": "600mm"
+      },
+      "captureDate": "2025-05-24T02:00:28.000Z",
+      "uploadDate": "2026-01-26T14:27:40.396Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 4965,
+        "height": 3310,
+        "aspectRatio": 1.5
+      }
+    },
+    {
+      "filename": "Red-breasted Flycatcher.jpg",
+      "slug": "red-breasted-flycatcher",
+      "category": "birds",
+      "species": "Red Breasted Flycatcher",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.398Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 3544,
+        "height": 2363,
+        "aspectRatio": 1.4997884045704613
+      }
+    },
+    {
+      "filename": "Red-naped Ibis.jpg",
+      "slug": "red-naped-ibis",
+      "category": "birds",
+      "species": "Red Naped Ibis",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS 700D",
+        "lens": "EF-S55-250mm f/4-5.6 IS II",
+        "iso": 1600,
+        "aperture": "f/5.6",
+        "shutterSpeed": "1/60",
+        "focalLength": "250mm"
+      },
+      "captureDate": "2015-09-17T01:16:49.000Z",
+      "uploadDate": "2026-01-26T14:27:40.403Z",
+      "copyright": "Vivek Doshi's Photography",
+      "artist": "VIVEK",
+      "dimensions": {
+        "width": 5184,
+        "height": 3456,
+        "aspectRatio": 1.5
+      }
+    },
+    {
+      "filename": "Red-vented Bulbul.jpg",
+      "slug": "red-vented-bulbul",
+      "category": "birds",
+      "species": "Red Vented Bulbul",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS RP",
+        "lens": "150-600mm F5-6.3 DG OS HSM | Contemporary 015",
+        "iso": 400,
+        "aperture": "f/6.3",
+        "shutterSpeed": "1/640",
+        "focalLength": "600mm"
+      },
+      "captureDate": "2020-11-19T09:44:40.000Z",
+      "uploadDate": "2026-01-26T14:27:40.404Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 5702,
+        "height": 3451,
+        "aspectRatio": 1.652274702984642
+      }
+    },
+    {
+      "filename": "Red-wattled Lapwing.jpg",
+      "slug": "red-wattled-lapwing",
+      "category": "birds",
+      "species": "Red Wattled Lapwing",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS 700D",
+        "lens": "150-600mm F5-6.3 DG OS HSM | Contemporary 015",
+        "iso": 800,
+        "aperture": "f/7.1",
+        "shutterSpeed": "1/2000",
+        "focalLength": "600mm"
+      },
+      "captureDate": "2019-06-09T12:52:49.000Z",
+      "uploadDate": "2026-01-26T14:27:40.414Z",
+      "copyright": "ALL RIGHTS RESERVED TO VIVEK",
+      "artist": "VIVEK",
+      "dimensions": {
+        "width": 3332,
+        "height": 2384,
+        "aspectRatio": 1.3976510067114094
+      }
+    },
+    {
+      "filename": "Red-whiskered Bulbul.jpg",
+      "slug": "red-whiskered-bulbul",
+      "category": "birds",
+      "species": "Red Whiskered Bulbul",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Pune",
+        "state": "Maharashtra",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS RP",
+        "lens": "150-600mm F5-6.3 DG OS HSM | Contemporary 015",
+        "iso": 10000,
+        "aperture": "f/6.3",
+        "shutterSpeed": "1/500",
+        "focalLength": "600mm"
+      },
+      "captureDate": "2025-03-30T02:03:08.000Z",
+      "uploadDate": "2026-01-26T14:27:40.418Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 6240,
+        "height": 4160,
+        "aspectRatio": 1.5
+      }
+    },
+    {
+      "filename": "River Tern.jpg",
+      "slug": "river-tern",
+      "category": "birds",
+      "species": "River Tern",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Bhavnagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.416Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 4889,
+        "height": 3259,
+        "aspectRatio": 1.5001534212948757
+      }
+    },
+    {
+      "filename": "Rock Pigeon.jpg",
+      "slug": "rock-pigeon",
+      "category": "birds",
+      "species": "Rock Pigeon",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS 700D",
+        "lens": "150-600mm F5-6.3 DG OS HSM | Contemporary 015",
+        "iso": 200,
+        "aperture": "f/6.3",
+        "shutterSpeed": "1/1600",
+        "focalLength": "600mm"
+      },
+      "captureDate": "2019-05-30T10:35:52.000Z",
+      "uploadDate": "2026-01-26T14:27:40.419Z",
+      "copyright": "ALL RIGHTS RESERVED TO VIVEK",
+      "artist": "VIVEK",
+      "dimensions": {
+        "width": 5184,
+        "height": 3456,
+        "aspectRatio": 1.5
+      }
+    },
+    {
+      "filename": "Rose-ringed Parakeet.jpg",
+      "slug": "rose-ringed-parakeet",
+      "category": "birds",
+      "species": "Rose Ringed Parakeet",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS RP",
+        "lens": "150-600mm F5-6.3 DG OS HSM | Contemporary 015",
+        "iso": 500,
+        "aperture": "f/6.3",
+        "shutterSpeed": "1/800",
+        "focalLength": "600mm"
+      },
+      "captureDate": "2021-09-07T01:39:13.000Z",
+      "uploadDate": "2026-01-26T14:27:40.417Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 6240,
+        "height": 4160,
+        "aspectRatio": 1.5
+      }
+    },
+    {
+      "filename": "Rosy Starling.jpg",
+      "slug": "rosy-starling",
+      "category": "birds",
+      "species": "Rosy Starling",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Mahuva",
+        "state": "Gandhinagar",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.419Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 4748,
+        "height": 3165,
+        "aspectRatio": 1.5001579778830965
+      }
+    },
+    {
+      "filename": "Ruddy Shelduck.jpg",
+      "slug": "ruddy-shelduck",
+      "category": "birds",
+      "species": "Ruddy Shelduck",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Ahmedabad",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS 700D",
+        "lens": "EF70-200mm f/4L USM",
+        "iso": 400,
+        "aperture": "f/4",
+        "shutterSpeed": "1/2500",
+        "focalLength": "200mm"
+      },
+      "captureDate": "2019-02-03T04:45:15.000Z",
+      "uploadDate": "2026-01-26T14:27:40.420Z",
+      "copyright": "ALL RIGHTS RESERVED TO VIVEK",
+      "artist": "VIVEK",
+      "dimensions": {
+        "width": 5184,
+        "height": 2600,
+        "aspectRatio": 1.9938461538461538
+      }
+    },
+    {
+      "filename": "Rufous Treepie.jpg",
+      "slug": "rufous-treepie",
+      "category": "birds",
+      "species": "Rufous Treepie",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS 700D",
+        "lens": "EF70-200mm f/4L USM",
+        "iso": 800,
+        "aperture": "f/4",
+        "shutterSpeed": "1/1250",
+        "focalLength": "200mm"
+      },
+      "captureDate": "2018-11-09T11:10:50.000Z",
+      "uploadDate": "2026-01-26T14:27:40.421Z",
+      "copyright": "ALL RIGHTS RESERVED TO VIVEK",
+      "artist": "VIVEK",
+      "dimensions": {
+        "width": 5184,
+        "height": 3456,
+        "aspectRatio": 1.5
+      }
+    },
+    {
+      "filename": "Sarus Crane.jpg",
+      "slug": "sarus-crane",
+      "category": "birds",
+      "species": "Sarus Crane",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Ahmedabad",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS RP",
+        "lens": "150-600mm F5-6.3 DG OS HSM | Contemporary 015",
+        "iso": 1000,
+        "aperture": "f/5.6",
+        "shutterSpeed": "1/800",
+        "focalLength": "313mm"
+      },
+      "captureDate": "2022-01-05T04:58:52.000Z",
+      "uploadDate": "2026-01-26T14:27:40.431Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 6240,
+        "height": 4160,
+        "aspectRatio": 1.5
+      }
+    },
+    {
+      "filename": "Scaly-breasted Munia.jpg",
+      "slug": "scaly-breasted-munia",
+      "category": "birds",
+      "species": "Scaly Breasted Munia",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS RP",
+        "lens": "150-600mm F5-6.3 DG OS HSM | Contemporary 015",
+        "iso": 400,
+        "aperture": "f/6.3",
+        "shutterSpeed": "1/400",
+        "focalLength": "600mm"
+      },
+      "captureDate": "2022-07-03T01:15:45.000Z",
+      "uploadDate": "2026-01-26T14:27:40.434Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 6240,
+        "height": 4160,
+        "aspectRatio": 1.5
+      }
+    },
+    {
+      "filename": "Shikra.jpg",
+      "slug": "shikra",
+      "category": "birds",
+      "species": "Shikra",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.435Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 3994,
+        "height": 2663,
+        "aspectRatio": 1.4998122418325197
+      }
+    },
+    {
+      "filename": "Small Minivet.jpg",
+      "slug": "small-minivet",
+      "category": "birds",
+      "species": "Small Minivet",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS RP",
+        "lens": "150-600mm F5-6.3 DG OS HSM | Contemporary 015",
+        "iso": 640,
+        "aperture": "f/6.3",
+        "shutterSpeed": "1/1600",
+        "focalLength": "562mm"
+      },
+      "captureDate": "2022-01-05T05:37:56.000Z",
+      "uploadDate": "2026-01-26T14:27:40.435Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 3599,
+        "height": 2603,
+        "aspectRatio": 1.3826354206684595
+      }
+    },
+    {
+      "filename": "Spot-breasted Fantail.jpg",
+      "slug": "spot-breasted-fantail",
+      "category": "birds",
+      "species": "Spot Breasted Fantail",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS RP",
+        "lens": "150-600mm F5-6.3 DG OS HSM | Contemporary 015",
+        "iso": 6400,
+        "aperture": "f/6.3",
+        "shutterSpeed": "1/500",
+        "focalLength": "600mm"
+      },
+      "captureDate": "2021-05-30T00:55:31.000Z",
+      "uploadDate": "2026-01-26T14:27:40.437Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 5331,
+        "height": 3941,
+        "aspectRatio": 1.3527023598071555
+      }
+    },
+    {
+      "filename": "Spotted Owlet.jpg",
+      "slug": "spotted-owlet",
+      "category": "birds",
+      "species": "Spotted Owlet",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS RP",
+        "lens": "150-600mm F5-6.3 DG OS HSM | Contemporary 015",
+        "iso": 2500,
+        "aperture": "f/6.3",
+        "shutterSpeed": "1/1250",
+        "focalLength": "600mm"
+      },
+      "captureDate": "2022-01-05T05:20:51.000Z",
+      "uploadDate": "2026-01-26T14:27:40.438Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 5454,
+        "height": 3934,
+        "aspectRatio": 1.3863751906456532
+      }
+    },
+    {
+      "filename": "Stork-billed Kingfisher.jpg",
+      "slug": "stork-billed-kingfisher",
+      "category": "birds",
+      "species": "Stork Billed Kingfisher",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Ramnagar",
+        "state": "Uttarakhand",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS 700D",
+        "lens": "EF70-200mm f/4L USM",
+        "iso": 100,
+        "aperture": "f/4",
+        "shutterSpeed": "1/250",
+        "focalLength": "200mm"
+      },
+      "captureDate": "2021-12-19T08:51:28.000Z",
+      "uploadDate": "2026-01-26T14:27:40.440Z",
+      "copyright": "ALL RIGHTS RESERVED TO VIVEK",
+      "artist": "VIVEK",
+      "dimensions": {
+        "width": 5793,
+        "height": 3862,
+        "aspectRatio": 1.5
+      }
+    },
+    {
+      "filename": "Streak-throated Swallow.jpg",
+      "slug": "streak-throated-swallow",
+      "category": "birds",
+      "species": "Streak Throated Swallow",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Bhavnagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.457Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 3753,
+        "height": 2502,
+        "aspectRatio": 1.5
+      }
+    },
+    {
+      "filename": "Striated Heron -D.jpg",
+      "slug": "striated-heron-d",
+      "category": "birds",
+      "species": "Striated Heron",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS RP",
+        "lens": "150-600mm F5-6.3 DG OS HSM | Contemporary 015",
+        "iso": 1600,
+        "aperture": "f/6.3",
+        "shutterSpeed": "1/2000",
+        "focalLength": "600mm"
+      },
+      "captureDate": "2021-05-30T01:05:30.000Z",
+      "uploadDate": "2026-01-26T14:27:40.451Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 6240,
+        "height": 4160,
+        "aspectRatio": 1.5
+      }
+    },
+    {
+      "filename": "Temminck's Stint.jpg",
+      "slug": "temminck-s-stint",
+      "category": "birds",
+      "species": "Temminck's Stint",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Bhavnagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.451Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 3823,
+        "height": 2549,
+        "aspectRatio": 1.4998038446449589
+      }
+    },
+    {
+      "filename": "Tickell's Blue Flycatcher.jpg",
+      "slug": "tickell-s-blue-flycatcher",
+      "category": "birds",
+      "species": "Tickell's Blue Flycatcher",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Pune",
+        "state": "Maharashtra",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.453Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 5078,
+        "height": 3385,
+        "aspectRatio": 1.5001477104874446
+      }
+    },
+    {
+      "filename": "Western Marsh Harrier.jpg",
+      "slug": "western-marsh-harrier",
+      "category": "birds",
+      "species": "Western Marsh Harrier",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Bhavnagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.462Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 5549,
+        "height": 3699,
+        "aspectRatio": 1.5001351716680185
+      }
+    },
+    {
+      "filename": "Western Reef-Heron.jpg",
+      "slug": "western-reef-heron",
+      "category": "birds",
+      "species": "Western Reef Heron",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Mahuva",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.463Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 3094,
+        "height": 2063,
+        "aspectRatio": 1.4997576345128454
+      }
+    },
+    {
+      "filename": "Western Yellow Wagtail.jpg",
+      "slug": "western-yellow-wagtail",
+      "category": "birds",
+      "species": "Western Yellow Wagtail",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Bhavnagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.464Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 4172,
+        "height": 2781,
+        "aspectRatio": 1.5001797914419273
+      }
+    },
+    {
+      "filename": "Whiskered Tern.jpg",
+      "slug": "whiskered-tern",
+      "category": "birds",
+      "species": "Whiskered Tern",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Bhavnagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.502Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 6240,
+        "height": 4160,
+        "aspectRatio": 1.5
+      }
+    },
+    {
+      "filename": "White Wagtail.jpg",
+      "slug": "white-wagtail",
+      "category": "birds",
+      "species": "White Wagtail",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.467Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 4345,
+        "height": 2897,
+        "aspectRatio": 1.4998274076630997
+      }
+    },
+    {
+      "filename": "White-bellied Drongo.jpg",
+      "slug": "white-bellied-drongo",
+      "category": "birds",
+      "species": "White Bellied Drongo",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.485Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 2199,
+        "height": 1466,
+        "aspectRatio": 1.5
+      }
+    },
+    {
+      "filename": "White-breasted Waterhen.jpg",
+      "slug": "white-breasted-waterhen",
+      "category": "birds",
+      "species": "White Breasted Waterhen",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS RP",
+        "lens": "150-600mm F5-6.3 DG OS HSM | Contemporary 015",
+        "iso": 3200,
+        "aperture": "f/6.3",
+        "shutterSpeed": "1/800",
+        "focalLength": "600mm"
+      },
+      "captureDate": "2021-09-07T01:43:43.000Z",
+      "uploadDate": "2026-01-26T14:27:40.485Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 4351,
+        "height": 2328,
+        "aspectRatio": 1.8689862542955327
+      }
+    },
+    {
+      "filename": "White-eared Bulbul.jpg",
+      "slug": "white-eared-bulbul",
+      "category": "birds",
+      "species": "White Eared Bulbul",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.494Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 2629,
+        "height": 1753,
+        "aspectRatio": 1.4997147746719908
+      }
+    },
+    {
+      "filename": "White-throated Kingfisher.jpg",
+      "slug": "white-throated-kingfisher",
+      "category": "birds",
+      "species": "White Throated Kingfisher",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.496Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 4284,
+        "height": 2856,
+        "aspectRatio": 1.5
+      }
+    },
+    {
+      "filename": "White-winged Tern.jpg",
+      "slug": "white-winged-tern",
+      "category": "birds",
+      "species": "White Winged Tern",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Bhavnagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.488Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 4429,
+        "height": 2953,
+        "aspectRatio": 1.4998306806637318
+      }
+    },
+    {
+      "filename": "Wire-tailed Swallow.jpg",
+      "slug": "wire-tailed-swallow",
+      "category": "birds",
+      "species": "Wire Tailed Swallow",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS RP",
+        "lens": "150-600mm F5-6.3 DG OS HSM | Contemporary 015",
+        "iso": 400,
+        "aperture": "f/6.3",
+        "shutterSpeed": "1/500",
+        "focalLength": "600mm"
+      },
+      "captureDate": "2025-03-30T02:44:50.000Z",
+      "uploadDate": "2026-01-26T14:27:40.497Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 3450,
+        "height": 2300,
+        "aspectRatio": 1.5
+      }
+    },
+    {
+      "filename": "Wood Sandpiper.jpg",
+      "slug": "wood-sandpiper",
+      "category": "birds",
+      "species": "Wood Sandpiper",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Bhavnagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.514Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 5541,
+        "height": 3694,
+        "aspectRatio": 1.5
+      }
+    },
+    {
+      "filename": "Yellow Bitttern.jpg",
+      "slug": "yellow-bitttern",
+      "category": "birds",
+      "species": "Yellow Bitttern",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Pune",
+        "state": "Maharashtra",
+        "country": "India"
+      },
+      "uploadDate": "2026-01-26T14:27:40.507Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 3848,
+        "height": 2595,
+        "aspectRatio": 1.4828516377649326
+      }
+    },
+    {
+      "filename": "Yellow-crowned Woodpecker.jpg",
+      "slug": "yellow-crowned-woodpecker",
+      "category": "birds",
+      "species": "Yellow Crowned Woodpecker",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS RP",
+        "lens": "150-600mm F5-6.3 DG OS HSM | Contemporary 015",
+        "iso": 5000,
+        "aperture": "f/6.3",
+        "shutterSpeed": "1/2000",
+        "focalLength": "600mm"
+      },
+      "captureDate": "2022-01-05T05:30:27.000Z",
+      "uploadDate": "2026-01-26T14:27:40.509Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 4925,
+        "height": 3019,
+        "aspectRatio": 1.6313348790990394
+      }
+    },
+    {
+      "filename": "Yellow-footed Green-Pigeon.jpg",
+      "slug": "yellow-footed-green-pigeon",
+      "category": "birds",
+      "species": "Yellow Footed Green Pigeon",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Pune",
+        "state": "Maharashtra",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS RP",
+        "lens": "150-600mm F5-6.3 DG OS HSM | Contemporary 015",
+        "iso": 640,
+        "aperture": "f/6.3",
+        "shutterSpeed": "1/500",
+        "focalLength": "600mm"
+      },
+      "captureDate": "2025-03-31T11:13:50.000Z",
+      "uploadDate": "2026-01-26T14:27:40.511Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 6240,
+        "height": 4160,
+        "aspectRatio": 1.5
+      }
+    },
+    {
+      "filename": "Yellow-throated Sparrow.jpg",
+      "slug": "yellow-throated-sparrow",
+      "category": "birds",
+      "species": "Yellow Throated Sparrow",
+      "description": "Wildlife of India",
+      "location": {
+        "place": "Gandhinagar",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "technical": {
+        "camera": "Canon Canon EOS RP",
+        "lens": "150-600mm F5-6.3 DG OS HSM | Contemporary 015",
+        "iso": 320,
+        "aperture": "f/6.3",
+        "shutterSpeed": "1/800",
+        "focalLength": "600mm"
+      },
+      "captureDate": "2021-09-07T01:37:27.000Z",
+      "uploadDate": "2026-01-26T14:27:40.520Z",
+      "copyright": "VIVEKS PHOTOS",
+      "artist": "VIVEK DOSHI",
+      "dimensions": {
+        "width": 4071,
+        "height": 3063,
+        "aspectRatio": 1.3290891283055828
+      }
+    }
+  ],
+  "cats": [],
+  "wildlife": []
+}
