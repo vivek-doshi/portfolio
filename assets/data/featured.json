@@ -1,0 +1,17 @@
+[
+  { "category": "birds", "species": "Indian Peafowl", "location": "Gandhinagar, Gujarat", "number": "001", "src": "assets/images/birds/alexandrine-parakeet.webp" },
+  { "category": "birds", "species": "Asian Green Bee-eater", "location": "Gandhinagar, Gujarat", "number": "004", "src": "assets/images/birds/asian-green-bee-eater.webp" },
+  { "category": "birds", "species": "Bar-headed Goose", "location": "Ahmedabad, Gujarat", "number": "008", "src": "assets/images/birds/bar-headed-goose.webp" },
+  { "category": "birds", "species": "Black-winged Stilt", "location": "Ahmedabad, Gujarat", "number": "017", "src": "assets/images/birds/black-winged-stilt.webp" },
+  { "category": "birds", "species": "Brahminy Kite", "location": "Panaji, Goa", "number": "022", "src": "assets/images/birds/brahminy-kite.webp" },
+  { "category": "cats", "species": "Asiatic Lion", "location": "Gir, Gujarat", "number": "001", "src": "assets/images/cats/asiatic-lion.webp" },
+  { "category": "cats", "species": "The Prince", "location": "Gir, Gujarat", "number": "003", "src": "assets/images/cats/the-prince.webp" },
+  { "category": "cats", "species": "King's Walk", "location": "Gir, Gujarat", "number": "013", "src": "assets/images/cats/king-s-walk.webp" },
+  { "category": "cats", "species": "Jungle Cat", "location": "Little Rann of Kutch", "number": "014", "src": "assets/images/cats/jungle-cat.webp" },
+  { "category": "cats", "species": "Resting Queen", "location": "Gir, Gujarat", "number": "005", "src": "assets/images/cats/resting-queen.webp" },
+  { "category": "wildlife", "species": "Indian Wolf", "location": "Velavadar, Gujarat", "number": "006", "src": "assets/images/wildlife/indian-wolf-alfa.webp" },
+  { "category": "wildlife", "species": "Golden Jackal", "location": "Gir, Gujarat", "number": "009", "src": "assets/images/wildlife/golden-jackal.webp" },
+  { "category": "wildlife", "species": "Bengal Monitor", "location": "Gujarat", "number": "011", "src": "assets/images/wildlife/bengal-monitor.webp" },
+  { "category": "wildlife", "species": "Rattlesnake", "location": "Gujarat", "number": "002", "src": "assets/images/wildlife/rattle-snake.webp" },
+  { "category": "wildlife", "species": "Cobra", "location": "Gujarat", "number": "010", "src": "assets/images/wildlife/cobra.webp" }
+]
